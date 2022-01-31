@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">TP5 Hiking</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="main_login_tab">Login</string>
+    <string name="main_register_tab">Register</string>
+
+    <string name="menu_repertory_tab">Repertory</string>
+    <string name="menu_new_hike_tab">New Hike</string>
+    <string name="menu_stats_tab">Statistics</string>
+
+    <string name="title_activity_map">Map</string>
+    <string name="pseudo">Pseudo</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="hike_name">Hike Name</string>
+    <string name="add_markers">Add Markers</string>
+    <string name="difficulty">Difficulty</string>
+    <string name="easy">Easy</string>
+    <string name="average">Average</string>
+    <string name="hard">Hard</string>
+    <string name="create_path">Create path</string>
+    <string name="add">Add</string>
+    <string name="comment">Comment</string>
+    <string name="kilometers">%1$.2f Km / %2$.2f Km</string>
+    <string name="finish">Finish</string>
+    <string name="start">Start</string>
+    <string name="pause">Pause</string>
+    <string name="traveled_distance">Traveled distance</string>
+    <string name="current_speed">Current speed</string>
+    <string name="current_speed_value">%1$.2f m/s</string>
+    <string name="delete">Delete</string>
+    <string name="performed">Performed:</string>
+    <string name="created_by">Created by:</string>
+    <string name="card_difficulty">Difficulty:</string>
+    <string name="perform">Perform</string>
+    <string name="x_times">%1$d times</string>
+    <string name="send">Send</string>
+    <string name="you_can_leave_an_awesome_review_for_the_people">You can leave an awesome review for the people !</string>
+    <string name="ok">OK</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="warning">Warning</string>
+    <string name="finish_the_hike">Are you sure you want to finish the hike ?</string>
+    <string name="hike_finished">You successfully finished the hike !</string>
+    <string name="error_occurred">An error occurred during creation</string>
+    <string name="hike_created">Hike created</string>
+    <string name="invalid_pseudo_password">Invalid pseudo or password.</string>
+    <string name="pseudo_length">Pseudo length must be between 1 and 20.</string>
+    <string name="password_not_empty">Password cannot be empty.</string>
+    <string name="you_can_login">You can now login.</string>
+    <string name="pseudo_already_taken">Pseudo is already taken.</string>
+    <string name="error_occurred_registration">An error occurred during registration.</string>
+    <string name="error_occurred_comment">An error occurred during saving</string>
+    <string name="chronometer_value">%1$s / %2$s</string>
+</resources>
